@@ -1,8 +1,8 @@
 # Reinforcement-Learning-Cartpole-Problem
 
-Here we try to use reinforcement learning to solve the cartpole problem. (Here is a link for more detailed cartpole problem https://gsurma.medium.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288 )
+Here we try to use reinforcement learning to solve the cartpole problem. 
 
-We try around 35 different combinations of parameters for the solution of the cartpole problem.
+Description
 
 As the image below shows, the goal of the agent is to balance a verticle rod on the top of the car. This position is unstable and that is the main reason for the difficulty.
 
@@ -19,3 +19,5 @@ The state is low dimensional and cosists of:
 * angular velocity
 
 Further details can be found on OpenAI gym's webpage: [Leader Board](https://github.com/openai/gym/wiki/CartPole-v0)
+
+Further details are in the .ipynb notebook
