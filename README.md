@@ -2,7 +2,7 @@
 
 Here we try to use reinforcement learning to solve the cartpole problem. 
 
-Description
+Description:
 
 As the image below shows, the goal of the agent is to balance a verticle rod on the top of the car. This position is unstable and that is the main reason for the difficulty.
 
